@@ -1,8 +1,8 @@
 class Aegis < Formula
   desc "Credential isolation for AI agents"
   homepage "https://github.com/getaegis/aegis"
-  url "https://registry.npmjs.org/@getaegis/cli/-/cli-0.9.6.tgz"
-  sha256 "b3db4399c7169903fa1b9edde22cf0e6b55ec3a718883d6a76dc23c6366d548c"
+  url "https://registry.npmjs.org/@getaegis/cli/-/cli-0.9.7.tgz"
+  sha256 "4e0afad5e3cbbc29bcb10c5ac4e70f4f8ffc01ac6e362e0c4ecaec72c6291f8a"
   license "Apache-2.0"
 
   depends_on "node@24"
